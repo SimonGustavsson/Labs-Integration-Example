@@ -8,7 +8,7 @@ Imports DriveWorks.Specification
 Public Class ExampleCreateAccount
     Inherits Task
 
-    ' This task is bringing in all of the data as sepearte strings.
+    ' This task is bringing in all of the data as separate strings.
     ' It would be just as appropriate to pass the data in as a single array or named pairs, or by using variable prefix's or suffix's
 
     ' Register properties so DriveWorks can see them and build rules for them
